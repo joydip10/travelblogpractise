@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(146, 224, 56);
+}
+h1{
+    color:rgb(235, 116, 116);
+    font-family: Verdana;
+    background-color:lavender;
+}
+h2{
+    color:forestgreen;
+    background-color: aliceblue;
+}
+p{
+    background-color: violet;
+    text-align: justify;
+    width: 80%;
+    color:rgb(48, 9, 3);
+    font-family: cursive;
+    margin-left:10px;
+    border-radius: 12px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+}
+small{
+    color:yellow;
+}
+.sajek{
+    background-color: rgb(156, 224, 224);
+    color:thistle;
+    height: 160px;
+    width:1200px;
+    margin:auto;
+    margin-bottom: 70px;
+    border-radius: 10px;
+    border: 5px dashed yellow;
+}
+.sm{
+    background-color: rgb(156, 224, 224);
+    color:rgb(73, 7, 73);
+    height: 160px;
+    width:1200px;
+    margin:auto;
+    margin-bottom: 70px; 
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: tomato;
+}
+.bk{
+    background-color: rgb(156, 224, 224);
+    color:thistle;
+    height: 160px;
+    width:1200px;
+    margin:auto;
+    margin-bottom: 70px;
+    border-radius: 10px; 
+    border-radius: 10px;
+    border: 5px dashed #0986da9d;
+}
+.author-name{
+    color:saddlebrown;
+}
+.blog-title{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.blog-para{
+    text-align: justify;
+}
